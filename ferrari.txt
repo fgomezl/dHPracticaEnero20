@@ -1,2 +1,3 @@
 velocidad=300km
 color=red
+modelo=2021
