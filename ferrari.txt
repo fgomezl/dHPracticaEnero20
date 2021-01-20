@@ -1,2 +1,3 @@
 velocidad=300km
 color=red
+precio=800 millones de pesos colombianos
