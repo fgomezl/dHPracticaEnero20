@@ -2,3 +2,6 @@ velocidad=280
 color=yellow
 modelo=2020
 kilometros=10000
+Ejemplos:
+Renault Logan, Clio
+
