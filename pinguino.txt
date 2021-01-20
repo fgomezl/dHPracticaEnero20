@@ -1,0 +1,5 @@
+"pinguino": {
+	"familia": "aves",
+	"hogar": "polo sur",
+	"esVolador": False,
+}
